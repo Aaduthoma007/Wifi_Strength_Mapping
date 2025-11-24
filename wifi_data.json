@@ -1,0 +1,14 @@
+[
+    {
+        "room": "kitchen",
+        "strength": 86
+    },
+    {
+        "room": "bathroom",
+        "strength": 86
+    },
+    {
+        "room": "tominte room",
+        "strength": 86
+    }
+]
